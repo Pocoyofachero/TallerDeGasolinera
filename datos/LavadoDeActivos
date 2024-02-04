@@ -1,0 +1,13 @@
+tipo:Regular:8500:10700.0
+tipo:Etanol:9800:6290.0
+tipo:Premium:10500:12980.0
+tipo:Diesel:9000:8123.0
+surtidor:Juan:Regular:0.0:Etanol:0.0:Premium:0.0:Diesel:0.0
+surtidor:Carlos:Regular:0.0:Etanol:0.0:Premium:0.0:Diesel:0.0
+surtidor:Juan:Regular:0.0:Etanol:0.0:Premium:0.0:Diesel:0.0
+surtidor:Carlos:Regular:0.0:Etanol:0.0:Premium:0.0:Diesel:0.0
+empleado:Laura:0
+empleado:Juan:0
+empleado:Daniel:0
+empleado:Maria:0
+empleado:Carlos:0
